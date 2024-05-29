@@ -6,7 +6,7 @@ I'm a former physics educator turned machine learning engineer from Los Angeles,
 - 🤖 I'm currently working on a project to demonstrate how to create a production-grade pipeline to finetune large language models via QLoRA. Stay tuned.
 - 🥋 Fun fact: I've recently become fascinated by Brazilian Jiu-Jitsu. I find the problems I tackle on the mats are every bit as nuanced, rich, and technical as the issues I run into when developing machine learning projects. 
 
-The best way to reach me is via [email](ed.izaguirre@pm.me), feel free to reach out for collaboration. 
+The best way to reach me is via email: ed.izaguirre@pm.me, feel free to reach out for collaboration. 
 <!--
 **EdIzaguirre/edizaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
