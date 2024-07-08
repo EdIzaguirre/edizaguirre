@@ -4,7 +4,7 @@ I'm a former physics educator turned machine learning engineer from Los Angeles,
 - 🤖 My focus is in generative AI, computer vision, and natural language processing.
 - ✍️ I enjoy writing! I've written several articles in Towards Data Science [see here](https://medium.com/@ed.izaguirre). My latest article covered how to build a film recommendation bot using a RAG system with a self-querying retriever.
 - 🔧 I enjoy full-stack machine learning. Currently my favorite tooling is Metaflow for orchestration and infrastructure abstraction, AWS Batch for compute, Sagemaker endpoints for deployment, and Weights & Biases for evaluation and monitoring. I also have experience using Streamlit for developing the front-end for an application.
-- 🥋 Fun fact: I am a Brazilian Jiu-Jitsu practitioner. Funny enough I find quite a bit of similarity between the problems I tackle on the mats and the problems I face when developing machine learning applications. 
+- 🥋 Fun fact: I am a Brazilian jiu-jitsu practitioner. Funny enough I find quite a bit of similarity between the problems I tackle on the mats and the problems I face when developing machine learning applications. 
 
 The best way to reach me is via email: ed.izaguirre@pm.me, feel free to reach out for collaboration. 
 <!--
