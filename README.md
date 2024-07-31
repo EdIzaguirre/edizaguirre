@@ -1,4 +1,4 @@
-## Hi, I'm Ed 👋
+## Hi, I'm Ed 👋🏽
 
 I'm a former physics educator turned data scientist/machine learning engineer from Los Angeles, CA. I've spent the past year teaching myself machine learning, primarily via [textbooks](https://www.manning.com/books/deep-learning-with-python-second-edition), [online courses](https://www.deeplearning.ai/courses/deep-learning-specialization/), [Kaggle](https://www.kaggle.com/edizaguirre/code), and personal projects. 
 - 🤖 My focus is in generative AI, computer vision, and natural language processing.
