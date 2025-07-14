@@ -1,13 +1,13 @@
 ## Hi, I'm Ed 👋🏽
 
-I'm a former physics educator turned data scientist/machine learning engineer from Los Angeles, CA. I've spent the past year teaching myself machine learning, primarily via [textbooks](https://www.manning.com/books/deep-learning-with-python-second-edition), [online courses](https://www.deeplearning.ai/courses/deep-learning-specialization/), [Kaggle](https://www.kaggle.com/edizaguirre/code), and personal projects. 
+I'm a former physics educator turned full stack web developer from Los Angeles, CA. I've spent the past year running a web development agency (losangelesaiapps.com). I'm a fan of Ruby on Rails, Ruby LLM, TensorFlow, and SQLite.
 - 💼 Co-founder of Los Angeles AI Apps. We build web applications with generative AI integration for clients. If you are interested, check us [out here](https://losangelesaiapps.com/)!
-- 🤖 My focus is in generative AI, computer vision, and natural language processing.
+- 🤖 My focus is in Ruby on Rails, generative AI, computer vision, and natural language processing.
 - ✍🏽 I enjoy writing! I've written several articles in Towards Data Science [see here](https://medium.com/@ed.izaguirre). My [latest article](https://medium.com/towards-data-science/productionizing-a-rag-app-04c857e0966e) covers my experience productionizing my film recommendation app using Prefect, Weave, and RAGAS.
 - 🔧 I enjoy full-stack machine learning. Currently my favorite tooling is Metaflow or Prefect for orchestration and infrastructure abstraction, AWS Batch for compute, Sagemaker endpoints for deployment, and Weights & Biases for evaluation and monitoring. I also have experience using Streamlit for developing the front-end for an application.
 - 🥋 Fun fact: I am a Brazilian jiu-jitsu practitioner. Funny enough I find quite a bit of similarity between the problems I tackle on the mats and the problems I face when developing machine learning applications. 
 
-The best way to reach me is via email: ed.izaguirre@pm.me, feel free to reach out for collaboration. 
+The best way to reach me is via email: ed.izaguirre@pm.me, feel free to reach out for collaboration. My personal website with all of my blog posts linked is at: edizaguirre.com
 <!--
 **EdIzaguirre/edizaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
