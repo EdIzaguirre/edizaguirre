@@ -7,7 +7,7 @@ I'm a former physics educator turned full stack web developer from Los Angeles, 
 - 🔧 I enjoy full-stack machine learning. Currently my favorite tooling is Metaflow or Prefect for orchestration and infrastructure abstraction, AWS Batch for compute, Sagemaker endpoints for deployment, and Weights & Biases for evaluation and monitoring. I also have experience using Streamlit for developing the front-end for an application.
 - 🥋 Fun fact: I am a Brazilian jiu-jitsu practitioner. Funny enough I find quite a bit of similarity between the problems I tackle on the mats and the problems I face when developing machine learning applications. 
 
-The best way to reach me is via email: ed.izaguirre@pm.me, feel free to reach out for collaboration. My personal website with all of my blog posts linked is at: edizaguirre.com
+The best way to reach me is via email: ed.izaguirre@pm.me, feel free to reach out for collaboration. My personal website with all of my blog posts linked is at: [edizaguirre.com](edizaguirre.com)
 <!--
 **EdIzaguirre/edizaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
