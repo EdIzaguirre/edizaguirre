@@ -1,6 +1,6 @@
 ## Hi, I'm Ed 👋🏽
 
-I'm a former physics educator turned full stack web developer from Los Angeles, CA. I've spent the past year running a web development agency (losangelesaiapps.com). I'm a fan of Ruby on Rails, Ruby LLM, TensorFlow, and SQLite.
+I'm a former physics educator turned full stack web developer from Los Angeles, CA. I've spent the past year running a web development agency building MVPs for clients. I'm a fan of Ruby on Rails, Ruby LLM, TensorFlow, and SQLite.
 - 💼 Co-founder of Los Angeles AI Apps. We build web applications with generative AI integration for clients. If you are interested, check us [out here](https://losangelesaiapps.com/)!
 - 🤖 My focus is in Ruby on Rails, generative AI, computer vision, and natural language processing.
 - ✍🏽 I enjoy writing! I've written several articles in Towards Data Science [see here](https://medium.com/@ed.izaguirre). My [latest article](https://medium.com/towards-data-science/productionizing-a-rag-app-04c857e0966e) covers my experience productionizing my film recommendation app using Prefect, Weave, and RAGAS.
